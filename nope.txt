@@ -2,7 +2,7 @@ cooler
 fridge
 Ac
 TV
-air conditioner
+non-Ac
 washing machine
 almar
 computer
