@@ -4,7 +4,6 @@ chapthi
 dosa
 puri
 idly
-bondhi
 semiya
 laddu
 maggie
@@ -16,3 +15,5 @@ chips
 carrot halwa
 cake
 cokkies
+chocklates
+creams
